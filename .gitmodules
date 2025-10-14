@@ -5,4 +5,4 @@
 [submodule "vscDebugger"]
 	path = vscDebugger
 	url = https://github.com/ManuelHentschel/vscDebugger
-	branch = v0.5.4
+	branch = v0.5.5
